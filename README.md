@@ -49,7 +49,7 @@ Arduino UNO Tutorial is a [Youtube series](https://www.youtube.com/watch?v=fJWR7
 ### The repository has been divided into three main parts:
 * [01_Demos](https://github.com/sigma-Jakub/arduinoUNO/tree/main/01_Demos) - basic code used for testing each individual hardware component
 * [02_Exercises](https://github.com/sigma-Jakub/arduinoUNO/tree/main/02_Exercises) - complex programs combining multiple hardware components and advanced software
-* [03_Theory](https://github.com/sigma-Jakub/arduinoUNO/tree/main/03_Theory) - digital compilation of notes taken throughout the course
+* [03_Notes](https://github.com/sigma-Jakub/arduinoUNO/tree/main/03_Notes) - digital compilation of notes taken throughout the course
 
 ## Additional Information
 
