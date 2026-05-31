@@ -1,7 +1,7 @@
 #include <Servo.h>
 
 const int SERVO_PIN = 9;
-const int SERVO_POSITION = 0;
+const int SERVO_POSITION = 120;
 
 Servo testServo;
 
