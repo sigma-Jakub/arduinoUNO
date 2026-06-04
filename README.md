@@ -1,4 +1,4 @@
-# Arduino UNO Tutorial Completion
+# Arduino UNO Tutorial Portfolio
 
 ## About the course and author
 
